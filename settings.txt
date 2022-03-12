@@ -1,0 +1,10 @@
+#Tue Nov 23 02:04:50 CET 2021
+heiht=940
+top=43
+left=1673
+maximized=0
+width=1200
+map=Default.txt
+speed=100
+agent_count=4
+height=800
